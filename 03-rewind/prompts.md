@@ -7,10 +7,10 @@ landed badly.
 Last session you read four conversations and every support ticket
 since 4.2 — and found the two piles did not agree.
 
-At the end of the session, ask Claude Code to save the prompts you
-wrote yourself below — not the starter prompt. The closing slide has
-the exact prompt to paste. By Module 6 this file is a prompt library
-built from your own questions.
+At the end of the session, type wrap up, and Claude Code saves the
+prompts you wrote yourself below — not the starter prompt — updates
+CLAUDE.md, and saves your work to GitHub. By Module 6 this file is a
+prompt library built from your own questions.
 
 ---
 
