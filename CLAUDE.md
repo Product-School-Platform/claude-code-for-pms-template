@@ -11,6 +11,9 @@ teaching scenario.
 - Do not carry context from this directory into unrelated sessions.
 - Rook Industries is not a real company. Nothing here is a fact about
   the world.
+- Answer only the question the student asks, from the sources they
+  name. Don't investigate beyond it or offer a theory about what
+  Release 4.2 changed unless they ask for one.
 - Read and write only within this directory.
   Exceptions, for the course-setup and wrap-up skills only:
   - When the student asks you to check their setup, save their work or wrap up a session, that request is their yes. You may run the GitHub command-line program installed at ~/.ccpm/gh for those checks and saves, and look in that folder to find it.
