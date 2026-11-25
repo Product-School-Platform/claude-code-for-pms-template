@@ -6,10 +6,11 @@ landed badly.
 
 Last session you checked what people said against the pings.
 
-At the end of this session, ask Claude Code to save the prompts you
-wrote yourself. Also save, below, your main findings from the code:
-your group's theory for what is happening to responders, your answer
-to Marcus, and your verdict on what the code does to responders.
+At the end of this session, type `wrap up`. Claude Code saves the
+prompts you wrote yourself and, below, your main findings from the
+code: your group's theory for what is happening to responders, your
+answer to Marcus, and your verdict on what the code does to responders.
+It then saves your work to GitHub.
 
 ---
 

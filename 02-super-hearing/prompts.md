@@ -7,10 +7,10 @@ company.
 
 You still do not know what actually went wrong.
 
-At the end of this session, ask Claude Code to save the prompts you
-wrote yourself. Also save, below, your main findings from what you read
-in the qualitative data: the interviews, the tickets and the comparison
-of the two.
+At the end of this session, type `wrap up`. Claude Code saves the
+prompts you wrote yourself and, below, your main findings from what you
+read in the qualitative data: the interviews, the tickets and the
+comparison of the two. It then saves your work to GitHub.
 
 ---
 

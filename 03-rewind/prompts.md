@@ -7,10 +7,11 @@ landed badly.
 Last session you read four conversations and every support ticket
 since 4.2, and found the two piles did not agree.
 
-At the end of this session, ask Claude Code to save the prompts you
-wrote yourself. Also save, below, your main findings from the numbers:
-the number your group would defend, what the pings and the tickets show
-together, and what happened to the responder you followed.
+At the end of this session, type `wrap up`. Claude Code saves the
+prompts you wrote yourself and, below, your main findings from the
+numbers: the number your group would defend, what the pings and the
+tickets show together, and what happened to the responder you followed.
+It then saves your work to GitHub.
 
 ---
 

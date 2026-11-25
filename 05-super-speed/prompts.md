@@ -7,10 +7,11 @@ landed badly.
 Last session you read the code behind it. Now the Director of
 Product has asked you for a solution.
 
-At the end of this session, ask Claude Code to save the prompts you
-wrote yourself. Also save, below, what you found: what your brief
-fixes and what it leaves out. Your brief and your prototype are in
-this folder as `brief.md` and `prototype.html`.
+At the end of this session, type `wrap up`. Claude Code saves the
+prompts you wrote yourself and, below, what you found: what your brief
+fixes and what it leaves out. Your brief and your prototype are in this
+folder as `brief.md` and `prototype.html`. It then saves your work to
+GitHub.
 
 ---
 
