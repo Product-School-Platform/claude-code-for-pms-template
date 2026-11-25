@@ -22,6 +22,7 @@ def travel_time_minutes(responder, location):
     """Estimated minutes for this responder to reach this location.
 
     Travel-time estimate, not straight-line distance — changed in 4.1.
+    Based on the road network.
     """
     ...
 

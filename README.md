@@ -1,8 +1,8 @@
 # Claude Code for PMs
 
 This is the course workspace for Product School's "Claude Code for PMs"
-certification, cohort ccpm-2026.1. Everything about Rook Industries in
-this workspace is a fictional teaching scenario — it's not a real company.
+certification. Everything about Rook Industries in
+this workspace is a fictional teaching scenario. It is not a real company.
 
 ## Getting started
 
@@ -18,14 +18,23 @@ this workspace is a fictional teaching scenario — it's not a real company.
 
 ## What's in here
 
-- **00-rook** — background on Rook Industries: the company, the product,
+- **00-rook**: background on Rook Industries: the company, the product,
   the team, and the release you're stepping into. Reference material for
   every module.
-- **01-origin-story** through **06-sidekicks** — the six course modules,
+- **01-origin-story** through **06-sidekicks**: the six course modules,
   in order.
 
-Each module folder has a `prompts.md` file. That's where your work goes —
-at the end of each session, type wrap up, and Claude Code saves the
-prompts you wrote yourself into it, updates CLAUDE.md, and saves your work
-to GitHub. By the end you have a library of your own prompts to look back
-on.
+Each module folder has a `prompts.md` file. That's where your work goes.
+At the end of each session, type wrap up. Claude Code saves the prompts you
+wrote yourself into it, and from Module 2 on it also writes what you found
+below them. It then adds what you learned to CLAUDE.md and saves your work to
+GitHub. By the end you have a library of your own prompts and findings to look
+back on.
+
+Two modules save more:
+
+- **Module 5** also saves your brief (`brief.md`) and your prototype
+  (`prototype.html`) in `05-super-speed`.
+- **Module 6** also saves your skill (in `.claude/skills/review-checklist/`),
+  the report from your scheduled task (`monday-run.md`) and your final
+  presentation (`final-presentation.html`).

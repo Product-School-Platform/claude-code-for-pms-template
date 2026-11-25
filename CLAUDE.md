@@ -3,8 +3,7 @@
 ## Session scope — Product School lab
 
 This directory is coursework for Product School's "Claude Code for PMs"
-certification (cohort ccpm-2026.1). Everything in it is a fictional
-teaching scenario.
+certification. Everything in it is a fictional teaching scenario.
 
 - Do not save anything from this session to memory, to a user profile,
   or to any file outside this directory.

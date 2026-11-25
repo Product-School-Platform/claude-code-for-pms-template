@@ -1,21 +1,10 @@
-Hey — Marcus mentioned you and the team traced the quiet-responder problem
-all the way down into the routing code last week. Good work, and thank you
-for not letting it sit.
+Hi,
 
-Engineering tells me the actual fix is small enough to ship this afternoon
-if I asked for it. I don't want to just quietly change a number and call
-it handled. Wen left a note next to that code years ago wondering whether
-it should work the way it does, and she wasn't wrong to wonder — nobody
-ever came back to it, and I'd rather we come back to it properly this time.
+Thanks for tracing the quiet-responder problem into the routing code. Engineering says the fix is small enough to ship this afternoon, but I don't want us to quietly change a number and call it handled. Wen left a note next to that code years ago asking whether it should work this way, and nobody came back to it.
 
-Before anyone touches the code, I want to see what we'd actually build
-instead — from the point of view of the person it happens to. Not a
-setting. Something a handler like Kip would notice, and something a
-responder who's gone quiet would feel differently about.
+Before anyone touches the code, I'd like to see what we would build instead, from the point of view of the person it happens to.
 
-Could you put together a one-pager on what this looks like? It doesn't
-need to be polished — I'd rather see something real than a tidy slide.
-And if you can get me something I can actually click through, even better.
+Can you put together a one-pager? Something rough is fine, and something I can click through is even better.
 
 Thanks,
 Helen

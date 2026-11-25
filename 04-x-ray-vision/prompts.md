@@ -1,17 +1,16 @@
-# 04 · X-Ray Vision — prompts
+# 04 · X-Ray Vision: prompts
 
 **Context:** You joined Rook two weeks ago as PM on Dispatch.
 Release 4.2 shipped on 12 August, just before you arrived, and
-landed badly. Last session the numbers showed you what happened: a
-ping used to wait ninety seconds and now it waits sixty, people
-missed pings they used to catch, and missing one counts the same as
-turning one down — so four responders stopped hearing from us
-altogether.
+landed badly.
 
-At the end of the session, type wrap up, and Claude Code saves the
-prompts you wrote yourself below — not the starter prompt — updates
-CLAUDE.md, and saves your work to GitHub. By Module 6 this file is a
-prompt library built from your own questions.
+Last session you checked what people said against the pings.
+
+At the end of this session, type `wrap up`. Claude Code saves the
+prompts you wrote yourself and, below, your main findings from the
+code: your group's theory for what is happening to responders, your
+answer to Marcus, and your verdict on what the code does to responders.
+It then saves your work to GitHub.
 
 ---
 
@@ -20,3 +19,13 @@ prompt library built from your own questions.
 ### 2.
 
 ### 3.
+
+---
+
+## What I found
+
+**Lab A, the code:** Our theory for what is happening to responders is ___, because ___.
+
+**Lab B, Marcus's question:** Our answer to Marcus is ___, because ___.
+
+**Lab C, how the code scores responders:** Our verdict on what the code does to responders is ___, because ___.
